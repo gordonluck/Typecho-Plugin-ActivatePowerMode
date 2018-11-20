@@ -110,7 +110,7 @@ class ActivatePowerMode_Plugin implements Typecho_Plugin_Interface
             echo "<script type='text/javascript'>
                 $(function() {
                     try {
-                        console.log(` %c ActivatePowerMode %c https://blog.imalan.cn/archives/208/ `, `color: #fadfa3; background: #23b7e5; padding:5px;`, `background: #1c2b36; padding:5px;`);
+                        console.log(` %c ActivatePowerMode %c https:\/\/blog.imalan.cn/archives/208/ `, `color: #fadfa3; background: #23b7e5; padding:5px;`, `background: #1c2b36; padding:5px;`);
                         (function(){
                             // input
                             POWERMODE.colorful = {$colorful}; // make power mode colorful 颜色
@@ -138,7 +138,7 @@ class ActivatePowerMode_Plugin implements Typecho_Plugin_Interface
                 echo "<script type='text/javascript'>
                     $(function() {
                         try {
-                            console.log(` %c ActivatePowerMode %c https://blog.imalan.cn/archives/208/ `, `color: #fadfa3; background: #23b7e5; padding:5px;`, `background: #1c2b36; padding:5px;`);
+                            console.log(` %c ActivatePowerMode %c https:\/\/blog.imalan.cn/archives/208/ `, `color: #fadfa3; background: #23b7e5; padding:5px;`, `background: #1c2b36; padding:5px;`);
                             (function(){
                                 // input
                                 POWERMODE.colorful = {$colorful}; // make power mode colorful 颜色
